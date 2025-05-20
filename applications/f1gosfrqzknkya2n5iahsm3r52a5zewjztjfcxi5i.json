@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1gosfrqzknkya2n5iahsm3r52a5zewjztjfcxi5i",
+  "Issue Number": "4",
+  "Client": {
+    "Name": "MinerDAO",
+    "Region": "China",
+    "Industry": "IT & Technology Services",
+    "Website": "https://minerdao.in",
+    "Social Media": "minerdao_in",
+    "Social Media Type": "Twitter",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Test signature",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Test signature",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "N/A",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "Test",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Daily",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
+    "In which geographies do you plan on making storage deals": "Greater China",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "Test",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5TiB",
+    "Single Size Dataset": "1TiB",
+    "Replicas": 5,
+    "Weekly Allocation": "1 TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-05-20 07:13:08.144322528 UTC",
+    "Validated By": "Fortneo",
+    "Active": true,
+    "Updated At": "2025-05-20 07:13:08.144318156 UTC",
+    "Active Request ID": "0d7ea55a-360c-496e-b274-4c41d4efbb3e",
+    "On Chain Address": "f1gosfrqzknkya2n5iahsm3r52a5zewjztjfcxi5i",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "0d7ea55a-360c-496e-b274-4c41d4efbb3e",
+      "Request Type": "First",
+      "Created At": "2025-05-20 07:09:57.993770845 UTC",
+      "Updated At": "2025-05-20 07:09:57.993771799 UTC",
+      "Active": false,
+      "Allocation Amount": "5497558138880 B",
+      "Signers": [
+        {
+          "Github Username": "Fortneo",
+          "Signing Address": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
+          "Created At": "2025-05-20 07:13:04.645000000 UTC",
+          "Message CID": "bafy2bzacea5vjjmz4eu7jqtpwp5bbekkonc75akfzos3q72qcbu6aadehuw4e"
+        }
+      ]
+    }
+  ]
+}
